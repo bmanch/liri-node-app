@@ -1,0 +1,115 @@
+my-tweets result #1
+TWEET #1 - Bill O’Reilly has a podcast for subscribers to his website, so your grandparents may call you tonight with a “computer question.” CREATED: Tue Apr 25 01:59:00 +0000 2017
+
+my-tweets result #2
+TWEET #2 - RT @colbertlateshow: Tonight! President Trump is willing to risk a government shutdown in order to win budget approval for his border wall.… CREATED: Tue Apr 25 01:14:00 +0000 2017
+
+my-tweets result #3
+TWEET #3 - Join me at the @MontclairFilm Festival April 28-May 7, opening Friday with @stepthemovie:https://t.co/NAZYU3sHFV #MFF17 #stepislife CREATED: Mon Apr 24 16:27:26 +0000 2017
+
+my-tweets result #4
+TWEET #4 - @jdickerson Sarah Connor? CREATED: Fri Apr 21 20:37:49 +0000 2017
+
+my-tweets result #5
+TWEET #5 - Sessions is "amazed" an "island in the Pacific" judge can block the travel ban. Just like how I'm "bewildered" a "racist elf" can be AG. CREATED: Fri Apr 21 02:57:36 +0000 2017
+
+my-tweets result #6
+TWEET #6 - Doesn’t look like a lot of Patriots visited the White House. Maybe some players got confused and went to Mar-a-Lago… https://t.co/xZQ2kWJdMn CREATED: Thu Apr 20 01:30:45 +0000 2017
+
+my-tweets result #7
+TWEET #7 - Say what you will, but Bill O'Reilly always had your back. And if you were a woman, he might try for your front, too. #RipPapaBear #LSSC CREATED: Thu Apr 20 00:48:26 +0000 2017
+
+my-tweets result #8
+TWEET #8 - RT @colbertlateshow: Also tonight! If you can't beat him, become him: @AlecBaldwin reveals his strategy for dealing with President Trump. #… CREATED: Wed Apr 19 03:10:35 +0000 2017
+
+my-tweets result #9
+TWEET #9 - British PM Theresa May stuns the world by calling for an election less than halfway through her term. Hey, how come THEY get to do that? CREATED: Wed Apr 19 01:26:09 +0000 2017
+
+my-tweets result #10
+TWEET #10 - I'm so sorry to hear of Dorothy Mengering's death, and so grateful that Dave shared her with us. CREATED: Wed Apr 12 03:10:51 +0000 2017
+
+my-tweets result #11
+TWEET #11 - Yeah! That's Deep! 
+Congratulations, Jon. https://t.co/bEXeH2KCHo CREATED: Sun Apr 09 02:49:56 +0000 2017
+
+my-tweets result #12
+TWEET #12 - 3 mile race. Personal best! (Hope my urine sample comes back clean.) #RunForAdela https://t.co/rjaFiGIDtD CREATED: Sat Apr 08 14:32:11 +0000 2017
+
+my-tweets result #13
+TWEET #13 - Don Rickles hugged me once. It's all been downhill from there. God bless you, Rickles. CREATED: Fri Apr 07 00:03:56 +0000 2017
+
+my-tweets result #14
+TWEET #14 - RT @colbertlateshow: Tonight: Stephen wades into the uproar around Pepsi's "protest" ad, and finds there may be a hidden message. #LSSC htt… CREATED: Thu Apr 06 03:11:56 +0000 2017
+
+my-tweets result #15
+TWEET #15 - Steve Bannon was removed from the National Security Council.  No word on when he’ll step down from his role as president. CREATED: Thu Apr 06 03:09:54 +0000 2017
+
+my-tweets result #16
+TWEET #16 - This is what I'll actually look like in about six months. https://t.co/Od71QSzM9P CREATED: Thu Apr 06 02:28:44 +0000 2017
+
+my-tweets result #17
+TWEET #17 - Thanks, @MatthewNussbaum ! https://t.co/D0qzvp5dLe CREATED: Wed Apr 05 02:50:41 +0000 2017
+
+my-tweets result #18
+TWEET #18 - But how do you feel, Louis? https://t.co/3Nb1oqNJM9 CREATED: Wed Apr 05 02:35:29 +0000 2017
+
+my-tweets result #19
+TWEET #19 - Phenomenal! https://t.co/tSnUrFVqIJ CREATED: Wed Apr 05 01:45:23 +0000 2017
+
+my-tweets result #20
+TWEET #20 - This Pepsi ad is so unrealistic. Those protesters would have been Dr. Pepper Sprayed. https://t.co/oNjjtm6eFu CREATED: Wed Apr 05 01:23:00 +0000 2017
+
+spotify-this-song 'The Sign'
+Artist(s): Ace of Base
+Song title: The Sign
+Album title: The Sign (US Album) [Remastered]
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+spotify-this-song umbrella result #1
+Artist(s): Rihanna
+Song title: Umbrella
+Album title: Good Girl Gone Bad: Reloaded
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/d4dc709a0ef2c7cb87e34571b60183c912e7511b?cid=null
+
+spotify-this-song umbrella result #2
+Artist(s): All Time Low
+Song title: Umbrella
+Album title: Umbrella
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/ae7d2e12b6a28f031f6d6f56af5781657b2c69a6?cid=null
+
+spotify-this-song umbrella result #3
+Artist(s): Various Artists
+Song title: Umbrella
+Album title: Punk Goes Crunk
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/d00acb18e651f95edb1255045e1c734f76a9797d?cid=null
+
+movie-this 
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country or Countries of Production: Belgium, Germany, Canada, France
+
+movie-this the+avengers
+Title: The Avengers
+Year: 2012
+IMDB Rating: 8.1
+Country or Countries of Production: USA
+
+spotify-this-song I+Want+it+That+Way result #1
+Artist(s): Backstreet Boys
+Song title: I Want It That Way
+Album title: The Hits--Chapter One
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+spotify-this-song I+Want+it+That+Way result #2
+Artist(s): Backstreet Boys
+Song title: I Want It That Way
+Album title: Millennium
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null
+
+spotify-this-song I+Want+it+That+Way result #3
+Artist(s): Various Artists
+Song title: I Want It That Way
+Album title: 90 Sweet 90s Hits!
+Link to preview at Spotify: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null
+
